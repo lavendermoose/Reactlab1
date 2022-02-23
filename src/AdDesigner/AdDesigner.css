@@ -1,0 +1,15 @@
+.ad {
+    height:200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
